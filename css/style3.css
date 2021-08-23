@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #fff;
+}
+
+#conteiner-principal {
+    /*border: 1px solid red;*/
+    width: 600px;
+    height: 500px;
+    margin: 0 auto;
+    margin-top: 90px;
+}
+
+#box-form {
+    text-align: center;
+    margin-top: 32px;
+}
+
+/* #box-checkbox {
+    border: #827FFE;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+*/
+
+h1 {
+    font-size: 28px;
+    text-transform: uppercase;
+    color: #403866;
+    margin-bottom: 32px;
+}
+
+input {
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+input.email {
+    width: 60%;
+    height: 50px;
+    padding: 16px;
+    border: none;
+    outline-color: #827ffe;
+    margin-bottom: 8px;
+    background-color: #E6E6E6;
+}
+
+input.password {
+    width: 60%;
+    height: 50px;
+    padding: 16px;
+    border: none;
+    outline-color: #827ffe;
+    margin-bottom: 8px;
+    background-color: #E6E6E6;
+}
+
+button {
+    width: 60%;
+    height: 50px;
+    color: #fff;
+    background-color: #827FFE;
+    font-weight: 900;
+    text-transform: uppercase;
+    border: none;
+}
+
+p {
+    margin-top: 8px;
+    color: #827FFE;
+}
+
+
+
+
+
+
